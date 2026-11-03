@@ -57,4 +57,4 @@ Optional settings: `DB_HOST` (default `localhost`), `DB_PORT` (default `3306`), 
 Schema design and normalisation · Constraints and indexing · JOINs · Aggregation and `GROUP BY` · Window functions · Reporting and data retrieval
 
 ## Author
-Built by *<your name>*, 2026.
+Built by *<Thamsanqa Mzwandile Ncube>*, 2026.
